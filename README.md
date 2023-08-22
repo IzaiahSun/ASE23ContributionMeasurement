@@ -1,5 +1,11 @@
 # ASE 2023 Contribution Measurement
 
+## About the source code
+
+Due to the crash of disk, the source code was gone. And the authors are working hard to reproduce it. the source code is estimated to be released by October 2023.
+
+## Repo structure
+
 There are the data in the evaluation part of the paper.
 
 ```
